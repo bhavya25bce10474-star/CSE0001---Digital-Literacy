@@ -1,0 +1,18 @@
+Stay Safe Online: Simple Checklist (For College Students)
+Easy and Practical tips:
+1. Use a strong password (mix of letters, numbers, symbols) and don’t reuse it on multiple apps.
+2. Turn on 2-step verification (2FA) for email, social media, and banking apps.
+3. Do not click on unknown links sent via WhatsApp, SMS, or email.
+4. Download apps only from trusted sources like Google Play Store or Apple App Store.
+5. Avoid using public Wi-Fi for logging into bank or personal accounts.
+6. Never enter your UPI PIN to receive money on apps like Google Pay or PhonePe.
+7. Always check carefully before approving any payment request (Pay vs Collect).
+8. Never share your OTP, UPI PIN, or bank details with anyone.
+UPI / Payment Safety:
+ Never enter your UPI PIN to receive money. PIN is only needed when sending money.
+ Always check if it is a “Pay” or “Request” before approving on apps like Google Pay or PhonePe.
+ Do not scan unknown QR codes or trust random payment requests.
+ Never share your OTP, PIN, or bank details with anyone.
+ Report Fraud:
+ Report online at National Cyber Crime Portal (cybercrime.gov.in)
+ Call 1930 immediately
